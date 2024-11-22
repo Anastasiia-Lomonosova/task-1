@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.iml
 
 ### Eclipse ###
 .apt_generated
@@ -14,6 +15,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+.iml
 
 ### NetBeans ###
 /nbproject/private/
@@ -21,9 +23,11 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+.iml
 
 ### VS Code ###
 .vscode/
+.iml
 
 ### Mac OS ###
 .DS_Store
